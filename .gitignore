@@ -1,0 +1,54 @@
+# ======================================================================
+# STM32CubeIDE / Eclipse Workspace Junk
+# ======================================================================
+.metadata/
+**/.settings/
+**/.project
+**/.cproject
+**/.mxproject
+**/.launches/
+**/.recommenders/
+
+# Eclipse index + history + caches
+**/.externalToolBuilders/
+**/.browser/
+**/.cache/
+**/.indexes/
+**/.history/
+**/.plugins/
+**/.root/
+**/.safetable/
+
+# ======================================================================
+# Build Output (DO NOT TRACK)
+# ======================================================================
+**/Debug/
+**/Release/
+**/build/
+**/out/
+**/obj/
+**/bin/
+
+# ======================================================================
+# STM32 Generated Files to Ignore
+# ======================================================================
+# CubeMX generates backup files
+*.ioc.bak
+*.launch
+
+# Crash logs
+hs_err_pid*
+replay_pid*
+
+# ======================================================================
+# OS-specific
+# ======================================================================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
